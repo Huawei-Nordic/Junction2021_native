@@ -9,7 +9,7 @@ You have a bunch of fresh ideas and you aspire to make them possible with the he
 
 1. fork/clone this project
 2. visit the workshop Slack channel [Junction 21 Hackathon Huawei](https://hackzurich2021.slack.com/archives/C02ALK7DHPA) 
-3. look for the file with secrets ([direct link ](https://discord.com/channels/907280815640150066/910820845860053022)
+3. look for the file with secrets ([direct link ](https://discord.com/channels/907280815640150066/910820845860053022))
 4. unzip the file into the project's *root* directory
 5. start coding!
 
