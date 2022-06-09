@@ -47,7 +47,7 @@ There are solutions.
 
 - for React Native: https://github.com/Huawei-Nordic/junction2021_reactnative
 
-- for Unity: https://github.com/DimitriUK/Junction-21-Huawei-Example
+- for Unity: https://github.com/EvilMindDevs/Huawei-Video-Content-Maze-Game
 
 More HMS code samples:
 
